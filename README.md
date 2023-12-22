@@ -23,3 +23,5 @@ This framework comprises several integral components:
     - A developer platform facilitating debugging, testing, evaluation, and monitoring of chains built on any LLM (Language Model) framework.
     - Seamlessly integrates with LangChain.
 
+
+### Disclaimer: This repository is inspired by Jose Portilla's Langchain course on Udemy

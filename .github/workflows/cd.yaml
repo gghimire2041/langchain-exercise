@@ -1,0 +1,14 @@
+name: CD Workflow
+on:
+  push:
+    branches:
+      - main  # Deploy when changes are pushed to the main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Add steps for deployment (e.g., deploying to a server, hosting service, etc.)
