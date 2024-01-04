@@ -1,3 +1,7 @@
+
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*FO0H3Rklax3wBIl_.png)
+
+
 # Introduction
 
 **LangChain** is a framework designed for developing applications empowered by language models. It facilitates the creation of applications that possess the following capabilities:
@@ -25,3 +29,7 @@ This framework comprises several integral components:
 
 
 ### Disclaimer: This repository is inspired by Jose Portilla's Langchain course on Udemy
+
+### Some good articles:
+1) https://levelup.gitconnected.com/gen-ai-frameworks-and-tools-every-ai-ml-engineer-should-know-1f0ce36f1452
+2) 
